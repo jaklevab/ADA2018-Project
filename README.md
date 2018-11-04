@@ -14,6 +14,7 @@ a significant fraction of the society. It is now understood that in order to fix
 individual corrections of elements of the system are not enough. Rather, systemic racism
 if existent, must be uprooted by implementing policy changes that address individual
 issues as soon as they are detected.
+
 In the hope of completing this task, many initiatives have been proposed to address
 these issues, ranging from instructing all officers to wear body cameras recording all incidents
 the officers are called to, to mandatory equipment of non-lethal weapons to prevent
