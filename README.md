@@ -43,9 +43,11 @@ and various police incident data [2]. These data have been collected from 12 dif
 Police departments in the United States. We have descriptions of all variables in ACS
 files (ACS-American community survey). ACS data files contain data about education,
 income, race, sex, age, owner occupied housing and poverty status. (census data) For
-each PD we also have shapefiles and incident reports.
+each PD we also have shapefiles and reports about incidents of different types.
 Incident reports are all in .csv format.
 ACS data files appear in .csv and .txt format and shapefiles appear in 13 different formats.
+Possible ideas to make data handling easier are to divide ACS files according to the Feature they represent, divide shapefiles according to the format and use appropriate Python function for loading into pandas or some other library.
+
 Our task will be to combine these
 data files and to visualize police behaviour in corresponding deployment areas.
 
