@@ -43,7 +43,10 @@ and various police incident data [2]. These data have been collected from 12 dif
 Police departments in the United States. We have descriptions of all variables in ACS
 files (ACS-American community survey). ACS data files contain data about education,
 income, race, sex, age, owner occupied housing and poverty status. (census data) For
-each PD we also have shapefiles and incident reports. Our task will be to combine these
+each PD we also have shapefiles and incident reports.
+Incident reports are all in .csv format.
+ACS data files appear in .csv and .txt format and shapefiles appear in 13 different formats.
+Our task will be to combine these
 data files and to visualize police behaviour in corresponding deployment areas.
 
 # A list of internal milestones up until project milestone 2
