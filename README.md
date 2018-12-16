@@ -70,7 +70,7 @@ hashtags related to the (#BlackLivesMatter,# BlueLivesMatter, ...)
 # Contributions:
 - Adnan: Contact with the teachers, github README mantaining, initial census analysis
 - Maxime: ______
-- Jacob: Project Proposal, Data Crawling and Analysis (Notebook), Report (+ final presentation)
+- Jacob: Project Proposal, Data Crawling and Analysis (Notebook), Report:Data_Science_for_Good__Policing_and_Census.pdf (+ final presentation)
 
 # References
 
