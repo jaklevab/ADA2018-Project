@@ -71,7 +71,7 @@ hashtags related to the (#BlackLivesMatter,# BlueLivesMatter, ...)
 
 # Contributions:
 - Adnan: Contact with the teachers, github README mantaining, initial census analysis
-- Maxime: ______
+- Maxime: Blank
 - Jacob: Project Proposal, Data Crawling and Analysis (Notebook), Report: (+ final presentation)
 
 # References
