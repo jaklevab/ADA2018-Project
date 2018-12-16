@@ -53,24 +53,24 @@ data files and to visualize police behaviour in corresponding deployment areas.
 
 # A list of internal milestones up until project milestone 2
 
-• Provide an Exploratory Data Analysis Notebook to understand the dataset
-• Cross ACS survey data with crime data
-• Create visualization methods able to convey an understanding if the current state
+- Provide an Exploratory Data Analysis Notebook to understand the dataset
+- Cross ACS survey data with crime data
+- Create visualization methods able to convey an understanding if the current state
 of the problem
-• Train ML predictors to be able to yield probability of events given police deployment,
+- Train ML predictors to be able to yield probability of events given police deployment,
 crime statistics and socioeconomical indicators
 
 # Questions for TAs
-• Is the idea fitting to the social good topic?
-• Is it wise to enrich the dataset with external feeds from twitter collected around
+- Is the idea fitting to the social good topic?
+- Is it wise to enrich the dataset with external feeds from twitter collected around
 hashtags related to the (#BlackLivesMatter,# BlueLivesMatter, ...)
-• Should we focus more on provinding reliable analytics or helpful visualizations?
+- Should we focus more on provinding reliable analytics or helpful visualizations?
 
 
 # Contributions:
-Adnan: Contact with the teachers, github README mantaining
-Maxime: ______
-Jacob: Project Proposal, Data Crawling and Analysis (Notebook), Report (+ final presentation)
+- Adnan: Contact with the teachers, github README mantaining
+- Maxime: ______
+- Jacob: Project Proposal, Data Crawling and Analysis (Notebook), Report (+ final presentation)
 
 # References
 
