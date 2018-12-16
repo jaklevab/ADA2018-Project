@@ -1,5 +1,7 @@
 # ADA2018-Project
 
+Report submitted: Data_Science_for_Good__Policing_and_Census.pdf
+
 # Abstract
 
 In recent years, the surge in the use of social media has enabled the realities of different
@@ -70,7 +72,7 @@ hashtags related to the (#BlackLivesMatter,# BlueLivesMatter, ...)
 # Contributions:
 - Adnan: Contact with the teachers, github README mantaining, initial census analysis
 - Maxime: ______
-- Jacob: Project Proposal, Data Crawling and Analysis (Notebook), Report:Data_Science_for_Good__Policing_and_Census.pdf (+ final presentation)
+- Jacob: Project Proposal, Data Crawling and Analysis (Notebook), Report: (+ final presentation)
 
 # References
 
