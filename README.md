@@ -66,6 +66,12 @@ crime statistics and socioeconomical indicators
 hashtags related to the (#BlackLivesMatter,# BlueLivesMatter, ...)
 • Should we focus more on provinding reliable analytics or helpful visualizations?
 
+
+# Contributions:
+Adnan: Contact with the teachers, github README mantaining
+Maxime: ______
+Jacob: Project Proposal, Data Crawling and Analysis (Notebook), Report (+ final presentation)
+
 # References
 
 [1] Center for policing equity. http://policingequity.org/. [Online; accessed 04-
